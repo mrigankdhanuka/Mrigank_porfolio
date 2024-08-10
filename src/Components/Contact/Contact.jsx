@@ -39,8 +39,7 @@ const Contact = () => {
         <div className="contact-left">
           <h1>Let's talk </h1>
           <p>
-            I am help to find best stock seclection for short term and long
-            term.
+            I help to create website using Mern stack development, Database management and software development.
           </p>
           <div className="contact-details">
             <div className="contact-detail">
