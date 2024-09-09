@@ -16,7 +16,7 @@ const About = () => {
         <div className="about-right">
             <div className="about-para">
                 <p>I am pursuing a B.Tech in Computer Science and Engineering at the Indian Institute of Information Technology (IIIT), Kota. My hobbies include playing esports, cooking, and photography.</p>
-                <p>My skill is web development using HTML, CSS, JavaScript, NodeJS, MongoDB.</p>
+                <p>My skill is web development using HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB.</p>
                 <p>I have experience of Data structure and Algorithm, C++, C. I have solved more the 500+ DSA problems on Leetcode, GFG and Codechef.</p>
                 <p>I have experience of stock market since 3+ years.</p>
             </div>
@@ -53,7 +53,7 @@ const About = () => {
         </div>
         <hr/>
         <div className="about-achievement">
-            <h1>1460</h1>
+            <h1>1485</h1>
             <p>Rating in codechef</p>
         </div>
     
